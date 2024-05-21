@@ -316,7 +316,7 @@ background: linear-gradient(90deg, rgba(222,255,252,1) 0%, rgba(244,222,255,0.45
 }
 
 #hero p span {
-  color: #0563bb;
+  color: rgb(150,223,255);
   letter-spacing: 1px;
 }
 
@@ -396,7 +396,7 @@ background: linear-gradient(90deg, rgba(255,255,255,0.3393732492997199) 0%, rgba
   display: block;
   width: 40px;
   height: 3px;
-  background: #0563bb;
+  background: #28eb69;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -449,8 +449,8 @@ background: linear-gradient(90deg, rgba(255,255,255,0.3393732492997199) 0%, rgba
   width: 100%;
   position: relative;
   text-align: center;
-  background: rgb(244,222,255);
-background: linear-gradient(90deg, rgba(244,222,255,1) 0%, rgba(244,222,255,0.4598214285714286) 100%);
+  background: rgb(255,125,252);
+  background: radial-gradient(circle, rgba(255,125,252,0.3841911764705882) 10%, rgba(211,255,248,0.14049369747899154) 22%);
 }
 
 .facts .count-box i {
@@ -459,7 +459,8 @@ background: linear-gradient(90deg, rgba(244,222,255,1) 0%, rgba(244,222,255,0.45
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
-  background: #0563bb;
+  background: rgb(105,191,255);
+  background: linear-gradient(0deg, rgba(105,191,255,0.711922268907563) 0%, rgba(163,255,86,0.7231267507002801) 100%);
   color: #fff;
   border-radius: 50px;
   display: inline-flex;
@@ -516,7 +517,8 @@ background: linear-gradient(90deg, rgba(244,222,255,1) 0%, rgba(244,222,255,0.45
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #0563bb;
+  background: rgb(164,255,150);
+  background: linear-gradient(90deg, rgba(164,255,150,0.6026785714285714) 0%, rgba(66,82,255,0.6867121848739496) 100%);
 }
 
 /*--------------------------------------------------------------
