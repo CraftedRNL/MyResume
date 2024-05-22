@@ -529,13 +529,13 @@ background: linear-gradient(90deg, rgba(255,255,255,0.3393732492997199) 0%, rgba
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #45505b;
+  color: #4a99e7;
 }
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #0563bb;
+  border-left: 2px solid #df8eff;
   position: relative;
 }
 
@@ -545,7 +545,7 @@ background: linear-gradient(90deg, rgba(255,255,255,0.3393732492997199) 0%, rgba
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #bb0505;
+  color: #ffd478;
   margin-bottom: 10px;
 }
 
