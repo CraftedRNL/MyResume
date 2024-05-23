@@ -316,8 +316,12 @@ background: linear-gradient(90deg, rgba(222,255,252,1) 0%, rgba(244,222,255,0.45
 }
 
 #hero p span {
-  color: rgb(150,223,255);
+  background: #96DFFF;
+background: linear-gradient(to right, #96DFFF 30%, #00CF11 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
   letter-spacing: 1px;
+  font-weight: bold;
 }
 
 #hero .social-links {
@@ -411,7 +415,10 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #728394;
+  background: #00B7CF;
+  background: linear-gradient(to right, #00B7CF 0%, #CF4747 44%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .about .content ul {
@@ -1235,4 +1242,10 @@ h4 {
 p, li {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
+}
+h2 {
+  background: #F477FF;
+  background: linear-gradient(to right, #F477FF 0%, #00CCCF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
