@@ -302,7 +302,8 @@ background: linear-gradient(90deg, rgba(222,255,252,1) 0%, rgba(244,222,255,0.45
 
 #hero h1 {
   margin: 0;
-  font-size: 64px;
+  font-size: 150px;
+  margin-bottom: 100px;
   font-weight: 700;
   line-height: 56px;
   color: #45505b;
@@ -311,7 +312,7 @@ background: linear-gradient(90deg, rgba(222,255,252,1) 0%, rgba(244,222,255,0.45
 #hero p {
   color: #45505b;
   margin: 15px 0 0 0;
-  font-size: 26px;
+  font-size: 50px;
   font-family: "Poppins", sans-serif;
 }
 
@@ -347,7 +348,7 @@ background: linear-gradient(to right, #96DFFF 30%, #00CF11 100%);
   }
 
   #hero h1 {
-    font-size: 32px;
+    font-size: 31px;
     line-height: 36px;
   }
 
@@ -970,7 +971,7 @@ background: linear-gradient(0deg, rgba(255,201,191,0.47942927170868344) 0%, rgba
 .testimonials .testimonial-item .testimonial-img {
   width: 120px;
   border-radius: 50%;
-  border: 4px solid #fff;
+  border: 4px solid #000000;
   margin: 0 auto;
 }
 
@@ -1242,10 +1243,12 @@ h4 {
 p, li {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
+  font-size: 18px;
 }
 h2 {
   background: #F477FF;
   background: linear-gradient(to right, #F477FF 0%, #00CCCF 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-size: 60px;
 }
