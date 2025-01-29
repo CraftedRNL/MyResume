@@ -867,11 +867,12 @@ background: linear-gradient(0deg, rgba(255,201,191,0.47942927170868344) 0%, rgba
 .services .icon-box h4 a {
   color: #3c3e44;
   transition: ease-in-out 0.3s;
+  font-size: 35px;
 }
 
 .services .icon-box p {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 20px;
   margin-bottom: 0;
 }
 
