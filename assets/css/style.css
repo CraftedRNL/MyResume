@@ -1253,3 +1253,21 @@ h2 {
   -webkit-text-fill-color: transparent;
   font-size: 60px;
 }
+.img-fluid{
+  border: 5px solid pink;
+  
+  
+}
+.col-lg-4 > .img-fluid{
+  border-radius: 50px;
+}
+.swiper-slide > img{
+    border: 5px solid pink;
+}
+img{
+  box-shadow: 5px 5px #888888;
+}
+
+.d-flex{
+  box-shadow: 5px 5px rgba(152, 184, 255, 0.637);
+}
